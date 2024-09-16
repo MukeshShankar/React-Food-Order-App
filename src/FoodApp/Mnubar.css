@@ -1,0 +1,20 @@
+.linkstyle{
+    position: relative;
+}
+.linkstyle span{
+    position: absolute;
+    bottom: 10;
+    right: -8px;
+    border: 1px solid black;
+    width: 18px;
+    height: 18px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 20px;
+    color: white;
+    background-color: black;
+    font-size: 13px;
+
+}

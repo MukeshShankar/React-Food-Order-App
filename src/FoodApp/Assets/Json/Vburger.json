@@ -1,0 +1,17 @@
+[  
+    {"id":21,
+     "pic": "https://www.bakersspring.com/uploads/quick/eggsausageburger.jpg",
+     "name":"Simply Veg Burger",
+     "price": 90.00,
+     "Qty": 1},
+     {"id":22,
+     "pic":"https://www.bakersspring.com/uploads/quick/crispy_chicken_burger12.jpg", 
+     "name":"Chunk Fried Paneer Burger",
+     "price": 165.00,
+     "Qty": 1},
+    {"id":23,
+    "pic":"https://www.bakersspring.com/uploads/quick/crispychickenburger11.jpg", 
+    "name":"All American Burger",
+    "price":175.00,
+    "Qty": 1}
+] 

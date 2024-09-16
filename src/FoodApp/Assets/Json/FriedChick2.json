@@ -1,0 +1,22 @@
+[  
+    {"id":71,
+     "pic": "https://www.bakersspring.com/uploads/quick/Classicbonelessstrips3.jpg",
+     "name":"6 Pcs Classic",
+     "price": 260.00,
+     "Qty": 1},
+     {"id":72,
+     "pic":"https://www.bakersspring.com/uploads/quick/Classicbonelessstrips2.jpg", 
+     "name":"6 Pcs Lemon N Pepper",
+     "price": 280.00,
+     "Qty": 1},
+    {"id":73,
+    "pic":"https://www.bakersspring.com/uploads/quick/Periperiboneless15.jpg", 
+    "name":"6 Pcs Piri Piri",
+    "price": 280.00,
+    "Qty": 1},
+    {"id":74,
+    "pic":"https://www.bakersspring.com/uploads/quick/Periperiboneless15.jpg", 
+    "name":"6 Pcs Cheese",
+    "price": 280.00,
+    "Qty": 1}
+]  

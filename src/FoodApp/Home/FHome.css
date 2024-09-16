@@ -1,0 +1,46 @@
+.Fhome{
+    min-width: 100%;
+    min-height: 100vh;
+    padding: 10px 30px;
+    background-color: rgb(34, 34, 34);
+}
+
+.Fhome h1{
+    font-size: 35px;
+    color:darkorange;
+    text-shadow: 2px 5px 6px rgba(0, 0, 0, 0.4);
+    font-weight: 600;
+}
+.Fmenu{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.Fmenu div{
+    border: none;
+    min-width: 120px;
+    min-height: 120px;
+    margin: 25px 25px;
+    text-align: center;
+    border-radius: 50%;
+    transition: 0.3s ease-in-out ;
+}
+.Fmenu .linkstyle {
+    color: white;
+    text-decoration: none;
+}
+.Fmenu div h5{
+    font-size: 18px;
+    text-decoration: none;
+    margin-top: 10px;
+}
+.Fmenu div h5:hover{
+    text-decoration-line: underline;
+}
+.Fmenu div img{
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+
+}

@@ -1,0 +1,22 @@
+[  
+    {"id":51,
+     "pic": "https://www.bakersspring.com/uploads/quick/chickenshawarmasub2.jpg",
+     "name":"Shawarma Chicken Sub",
+     "price": 110.00,
+     "Qty": 1},
+     {"id":52,
+     "pic":"https://www.bakersspring.com/uploads/quick/bbqchickensubone.jpg", 
+     "name":"BBQ Chicken Sub",
+     "price": 110.00,
+     "Qty": 1},
+    {"id":53,
+    "pic":"https://www.bakersspring.com/uploads/quick/chickenshawamasalad-cs.jpg", 
+    "name":"Shawarma Chicken Salad",
+    "price":160.00,
+    "Qty": 1},
+    {"id":54,
+    "pic":"https://www.bakersspring.com/uploads/quick/bbqchickensalad.png", 
+    "name":"BBQ Chicken Salad",
+    "price":160.00,
+    "Qty": 1}
+] 

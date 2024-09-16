@@ -1,0 +1,30 @@
+.Fcontactt{
+        background-color: rgb(34, 34, 34);
+        min-width: 100%;
+        min-height: 90vh;
+        color: white;
+        padding: 15px 20px;
+}
+.Fcontactt h1{
+    color: white;
+    text-align: center;
+    padding: 10px;
+    font-size: 40px;
+}
+.Fform-cont {
+    max-width: 550px;
+}
+.Fcontactt .form-group, .form-check,.Fbttn{
+       margin: 15px 30px;
+}
+.Fbttn button {
+    width: 100%;
+    background-color: #134B70;
+    border: none;
+    color: white;
+    font-weight: 600;
+}
+.Fcontactt img {
+    border-radius: 45px;
+    box-shadow: rgba(14, 30, 37, 0.12) 0px 2px 4px 0px, rgba(14, 30, 37, 0.32) 0px 2px 16px 0px;
+}
