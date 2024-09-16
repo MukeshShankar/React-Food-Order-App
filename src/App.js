@@ -29,7 +29,7 @@ function App() {
     <>
     {login?<FLogin setLogin={setLogin}/>:<></>}
     <div className="App">
-    <Mnubar cart={cart} setCart={setCart}/>
+    <Mnubar setLogin={setLogin} cart={cart} setCart={setCart}/>
       <Routes>
         <Route>
           <Route path="/" element={<THome cart={cart} setCart={setCart}/>}>
